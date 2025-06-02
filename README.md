@@ -46,7 +46,7 @@ cd tenzies
 npm install
 ````
 
-3. Démarrer le serveur de développement
+### Démarrer le serveur de développement
 ```bash
 npm run dev
 ````
