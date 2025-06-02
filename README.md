@@ -2,7 +2,8 @@
 
 Tenzies est un petit jeu de hasard et de stratégie développé avec **React**. Le but du jeu est simple : **lancer les dés jusqu'à ce que tous affichent la même valeur**. À chaque tour, tu peux **geler (hold)** les dés que tu souhaites conserver pour les empêcher de changer au prochain lancer.
 
-![Capture d'écran du jeu Tenzies](./public/screenshot.png)
+<img src="./public/screenshot.png" alt="Capture d'écran du jeu Tenzies" width="350" />
+
 
 
 ## 🕹️ Règles du jeu
