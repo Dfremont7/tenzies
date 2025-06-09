@@ -4,6 +4,9 @@ Tenzies est un petit jeu de hasard et de stratégie développé avec **React**. 
 
 <img src="./public/screenshot.png" alt="Capture d'écran du jeu Tenzies" width="350" />
 
+## 🌐 Démo en ligne
+
+👉 Visible ici : https://tenzies-psi-nine.vercel.app/
 
 
 ## 🕹️ Règles du jeu
