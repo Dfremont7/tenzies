@@ -1,6 +1,7 @@
 # 🎲 Tenzies Game
 
 Tenzies is a small game of luck and strategy built with React. The goal of the game is simple: roll the dice until all of them show the same value. On each turn, you can hold the dice you want to keep so they won’t change on the next roll.
+
 <img src="./public/screenshot.png" alt="Capture d'écran du jeu Tenzies" width="350" />
 
 ## 🌐 Live Demo
@@ -37,18 +38,18 @@ Tenzies is a small game of luck and strategy built with React. The goal of the g
 
 ## 🚀 Run the Project Locally
 
-### Cloner le dépôt
+### Clone the repository
 
 ```bash
 git clone git@github.com:Dfremont7/tenzies.git
 cd tenzies
 ````
-### Installer les dépendances
+### Install dependencies
 ```bash
 npm install
 ````
 
-### Démarrer le serveur de développement
+### Start the development server
 ```bash
 npm run dev
 ````
